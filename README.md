@@ -63,8 +63,7 @@ Additionally, instructors will provide feedback on required portions of your pro
 
 Your instructor will explain how to submit your assignment. Typically, this is done either by:
 
-- Creating a repository in your github profile, hosting your materials, and sharing a link with your instructor.
-[or]
+- Creating a repository in your github profile, hosting your materials, and sharing a link with your instructor. [or]
 - Forking the project repository, adding your solutions, and submitting a pull request back to the relevant repo.
 
 ---
