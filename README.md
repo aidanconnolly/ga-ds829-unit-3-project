@@ -18,10 +18,10 @@
 
 ## Project Objective
 
-In this project, you'll build a linear regression model and a KNN model, via guided prompts. You will be exposed to model validation using the train/test split and K-Fold methods in order to fit three different models on sample Boston housing data.
+In this project, you'll build a linear regression model and a KNN model via guided prompts. You will be exposed to model validation using the train/test split and K-Fold methods in order to fit three different models on sample Boston housing data.
 
 You will be:
-  - Fixing a train/test split of the data.
+  - Creating a train/test split of the data.
   - Training each of your models on the training data.
   - Evaluating each of the models on the test data.
   - Ranking the models by how well they score on the testing data set.
@@ -30,7 +30,7 @@ You will be:
 
 ## Project Requirements
 
-In a Jupyter Notebook, create working solutions for all of the questions above.
+In a Jupyter Notebook, create working solutions for all of the questions.
 
 Your notebook should include:
 
