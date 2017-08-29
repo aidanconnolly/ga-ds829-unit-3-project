@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Starter Code | Project Description | [Here](./linreg-knn-project.ipynb) |
 | Solution Code | Sample solutions for project questions | [Here](./Solution-Code/linreg-knn-project-solution.ipynb) |
-| Dataset | Boston Housing Dataset  | [Here](X) |
+| Dataset | Boston Housing Dataset (Provided as back-up to embedded data)| [Here](./data/boston_data.csv) |
 
 > Note: Instructors should withold providing project solutions until students have submitted their drafts. In order to do so, avoid forking this repo and instead clone down materials locally, create a new repository in your student org, and upload materials manually.
 
@@ -46,7 +46,7 @@ Your notebook should include:
 
 ## Rubric
 
-For all projects, requirements will be evaluated on a simple point scale of 0, 1, or 2. 
+For all projects, requirements will be evaluated on a simple point scale of 0, 1, or 2.
 
 Score | Expectations
 :--- | :---
