@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Linear Regression and KNN Practice
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Modeling Housing Data with Linear Regression
 
 > Unit Project
 
@@ -18,7 +18,7 @@
 
 ## Project Objective
 
-In this project, you'll build a linear regression model and a KNN model via guided prompts. You will be exposed to model validation using the train/test split and K-Fold methods in order to fit three different models on sample Boston housing data.
+In this project, you'll build a linear regression (and KNN) model using guided prompts. You will be exposed to model validation using the train/test split and K-Fold methods in order to fit three different models on sample Boston housing data.
 
 You will be:
   - Creating a train/test split of the data.
