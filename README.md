@@ -9,7 +9,6 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Starter Code | Project Description | [Here](./linreg-knn-project.ipynb) |
-| Solution Code | Sample solutions for project questions | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-3/project-3_solutions.ipynb) |
 | Dataset | Boston Housing Dataset (Provided as back-up to embedded data)| [Here](./data/boston_data.csv) |
 
 > Note: Instructors should withold providing project solutions until students have submitted their drafts. In order to do so, avoid forking this repo and instead clone down materials locally, create a new repository in your student org, and upload materials manually.
